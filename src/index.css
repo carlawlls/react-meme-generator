@@ -31,4 +31,5 @@ body {
 .header--p {
   font-family: 'Inter';
   font-weight: 500;
+  letter-spacing: 0.8px;
 }
