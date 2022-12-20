@@ -7,7 +7,7 @@ export default function Header() {
         <img src='images/header-logo.png' alt='' className='header--img' />
         <h3 className='header--h3'>Meme Generator</h3>
       </div>
-      <p>Built with love 💖</p>
+      <p className='header--p'>Built with love 💖</p>
     </div>
   )
 }
