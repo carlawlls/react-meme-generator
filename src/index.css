@@ -16,3 +16,12 @@ body {
   gap: 8px;
   align-items: center;
 }
+
+.header--h3 {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20.7482px;
+  line-height: 24px;
+  letter-spacing: -0.1em;
+}
