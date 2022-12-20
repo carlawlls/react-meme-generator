@@ -23,3 +23,7 @@ body {
   font-size: 24px;
   letter-spacing: -0.1em;
 }
+
+.header--img {
+  width: 40px;
+}
